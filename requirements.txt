@@ -1,0 +1,3 @@
+python-dotenv
+graphrag_sdk[all]
+kubemq>=3.4.1
